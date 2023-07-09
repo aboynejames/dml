@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./peer1-dml-slash.js",
+    "start2": "node ./peer2-dml-slash.js"
+  },
+  "dependencies": {
+      "@synonymdev/slashtags-sdk": "^1.0.0-alpha.41",
+      "log-update": "^5.0.1"
+  }
+}
